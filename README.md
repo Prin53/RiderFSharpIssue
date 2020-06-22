@@ -5,3 +5,5 @@ When using the F# type with the custom attribute applied, the Rider cannot resol
 ![1](1.png?raw=true)
 ![2](2.png?raw=true)
 ![3](3.png?raw=true)
+
+YouTrack issue: https://youtrack.jetbrains.com/issue/RIDER-46514
